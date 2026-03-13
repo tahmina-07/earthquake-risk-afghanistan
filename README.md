@@ -10,7 +10,7 @@ While living in Afghanistan, I experienced several earthquakes that had a strong
 
 ## System Architecture
 
-![System Architecture](docs/architecture.svg)
+![System Architecture]([docs/architecture.svg](https://github.com/tahmina-07/earthquake-risk-afghanistan/blob/main/architecture.svg))
 
 ---
 
