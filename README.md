@@ -48,7 +48,7 @@ earthquake-risk-afghanistan/
 ## Roadmap
 
 - [x] Week 1 — Project setup & USGS data collection
-- [ ] Week 2 — Exploratory analysis & earthquake mapping
+- [x] Week 2 — Exploratory analysis & earthquake mapping
 - [ ] Week 3 — NASA & Sentinel-1 satellite data integration
 - [ ] Week 4 — Feature engineering & ML risk model
 - [ ] Week 5 — Anomaly detection & early warning logic
