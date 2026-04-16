@@ -4,7 +4,7 @@
 
 ## Motivation
 
-While living in Afghanistan, I experienced several earthquakes that had a strong physical and psychological impact. There were no effective early warning systems or accessible risk information available. After coming to the United States, I received an early warning notification before even feeling a small earthquake — which significantly reduced anxiety and felt much safer. This contrast motivated me to explore how satellite data and machine learning could support earthquake risk assessment and early warning efforts in regions with limited ground-based infrastructure.
+While living in Afghanistan, I experienced several earthquakes that had a strong physical and psychological impact. There were no effective early warning systems or accessible risk information available. After coming to the United States, I received an early warning notification before even feeling a small earthquake — which significantly reduced anxiety and felt much safer. This contrast motivated me to explore how satellite data and machine learning could support earthquake risk assessment and early warning efforts in regions with limited ground-based infrastructure. 
 
 ---
 
