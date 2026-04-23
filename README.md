@@ -49,7 +49,7 @@ earthquake-risk-afghanistan/
 
 - [x] Week 1 — Project setup & USGS data collection
 - [x] Week 2 — Exploratory analysis & earthquake mapping
-- [ ] Week 3 — NASA & Sentinel-1 satellite data integration
+- [x] Week 3 — NASA & Sentinel-1 satellite data integration
 - [ ] Week 4 — Feature engineering & ML risk model
 - [ ] Week 5 — Anomaly detection & early warning logic
 - [ ] Week 6 — ROS2 sensor simulation / Raspberry Pi node
