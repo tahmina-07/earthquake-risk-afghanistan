@@ -1,6 +1,6 @@
 # 🌍 Earthquake Risk Assessment for Afghanistan
 
-> Using historical seismic data, satellite imagery, and machine learning to identify earthquake risk patterns and support early warning systems for vulnerable communities.
+> Using historical seismic data, satellite imagery, and machine learning to identify earthquake risk patterns and support early warning systems for vulnerable communities. 
 
 ## Motivation
 
