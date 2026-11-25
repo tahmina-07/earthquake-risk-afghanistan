@@ -4,7 +4,7 @@ A machine learning project that analyzes 34 years of seismic data from Afghanist
  
 **Status:** v1.0, complete. Built with Python, scikit-learn, and Streamlit.
  
-![Dashboard screenshot](docs/dashboard_screenshot.png)
+![Dashboard screenshot](1.png)
  
 ---
  
